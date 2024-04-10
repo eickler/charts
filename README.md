@@ -1,4 +1,4 @@
-# charts: Packaged Helm charts
+# My packaged Helm charts
 
 This is a [GitHub Pages repository](https://eickler.github.io/charts/) with packaged Helm charts from my projects. For instructions, see the corresponding projects.
 
