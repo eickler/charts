@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rumsimop:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-04-10T08:35:27.936791248Z"
+    description: An operator for running MQTT simulations.
+    digest: 0f122a54fbe339d1f36ea6cd73733c185d90f001416c02fb731b6465acfaa016
+    name: rumsimop
+    type: application
+    urls:
+    - rumsimop-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-10T08:35:27.936459044Z"
