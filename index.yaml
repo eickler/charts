@@ -3,7 +3,7 @@ entries:
   banshee:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-10T14:09:51.794702489Z"
+    created: "2024-07-08T12:55:22.590924738Z"
     description: A microservice to announce Kubernetes OOM killings more visibly.
     digest: a67149b84935bff5ca9e171ff0be2efe5a2490f994a284ee174d4d3fd506c829
     name: banshee
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-10T14:09:51.794524526Z"
+    created: "2024-07-08T12:55:22.590753928Z"
     description: A microservice to announce Kubernetes OOM killings more visibly.
     digest: 10cf263053b8f4a76822352b6bffe18301be29dee0c22b23b3fdac30170dfe3e
     name: banshee
@@ -21,10 +21,21 @@ entries:
     urls:
     - banshee-0.1.0.tgz
     version: 0.1.0
+  microinsight:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-07-08T12:55:22.591095067Z"
+    description: A tool to write microservice resource usage to MySQL
+    digest: a37d8b4355ea737b36250f39ce006da6930525f30105dad8d0369ba13f1dd72d
+    name: microinsight
+    type: application
+    urls:
+    - microinsight-v0.1.2.tgz
+    version: v0.1.2
   rumsimop:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-10T14:09:51.795628298Z"
+    created: "2024-07-08T12:55:22.59205819Z"
     description: An operator for running MQTT simulations.
     digest: 99fc11e5e3f4202d8e032d9427be6e841b9f0d61ecd160d2eab88d9b37053cf3
     name: rumsimop
@@ -34,7 +45,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-10T14:09:51.795438874Z"
+    created: "2024-07-08T12:55:22.591866822Z"
     description: An operator for running MQTT simulations.
     digest: a8e736eabfac8c5588ad22ac3670c6ba6af8cd048cb732d8e1a67533c278e852
     name: rumsimop
@@ -44,7 +55,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-10T14:09:51.795256133Z"
+    created: "2024-07-08T12:55:22.591638464Z"
     description: An operator for running MQTT simulations.
     digest: c57ed12a8698e81c7b543b28740ccef6699bc3dcdf8a907a51297d8720bf6ab4
     name: rumsimop
@@ -54,7 +65,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-10T14:09:51.795077629Z"
+    created: "2024-07-08T12:55:22.591444952Z"
     description: An operator for running MQTT simulations.
     digest: d9a853001e72872f66d76b9a0940c82a9186fdec57d780f5a0eb20534363ea27
     name: rumsimop
@@ -64,7 +75,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-10T14:09:51.794874941Z"
+    created: "2024-07-08T12:55:22.591259234Z"
     description: An operator for running MQTT simulations.
     digest: 21c80b057ec10a72159c20a80901ed8d230a750fccf4af6d4fd2dc51bfe4563c
     name: rumsimop
@@ -72,4 +83,4 @@ entries:
     urls:
     - rumsimop-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-10T14:09:51.794178129Z"
+generated: "2024-07-08T12:55:22.59044483Z"
