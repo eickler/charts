@@ -3,7 +3,7 @@ entries:
   banshee:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-10T08:59:00.182069445Z"
+    created: "2025-02-12T09:00:35.925165401Z"
     description: A microservice to announce Kubernetes OOM killings more visibly.
     digest: a67149b84935bff5ca9e171ff0be2efe5a2490f994a284ee174d4d3fd506c829
     name: banshee
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-10T08:59:00.18187364Z"
+    created: "2025-02-12T09:00:35.924980396Z"
     description: A microservice to announce Kubernetes OOM killings more visibly.
     digest: 10cf263053b8f4a76822352b6bffe18301be29dee0c22b23b3fdac30170dfe3e
     name: banshee
@@ -23,7 +23,16 @@ entries:
     version: 0.1.0
   microinsight:
   - apiVersion: v2
-    created: "2025-02-10T08:59:00.184701164Z"
+    created: "2025-02-12T09:00:35.928030464Z"
+    description: A tool to write microservice resource usage to MySQL
+    digest: 4d81447294c1d21896dcc40469dba402e78f0538c11f04e163f1909e1b7c766f
+    name: microinsight
+    type: application
+    urls:
+    - microinsight-v0.6.1.tgz
+    version: v0.6.1
+  - apiVersion: v2
+    created: "2025-02-12T09:00:35.927843414Z"
     description: A tool to write microservice resource usage to MySQL
     digest: bc907f35dd4a921b126080e4add544b5104fc68b7f7089d11a31675a8ed70404
     name: microinsight
@@ -32,7 +41,7 @@ entries:
     - microinsight-v0.6.0.tgz
     version: v0.6.0
   - apiVersion: v2
-    created: "2025-02-10T08:59:00.184481484Z"
+    created: "2025-02-12T09:00:35.927647939Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 652fd16bb8150b2559fc86d0c2438118e82ee94eab25c63acdd8a14a9e930674
     name: microinsight
@@ -42,7 +51,7 @@ entries:
     version: v0.5.1
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2025-02-10T08:59:00.184023687Z"
+    created: "2025-02-12T09:00:35.927460018Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 74c0de87fc7b3e7d986bccc132448150fbb0487d078a5007b6491aa0df09078f
     name: microinsight
@@ -52,7 +61,7 @@ entries:
     version: v0.5.0
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2025-02-10T08:59:00.183623361Z"
+    created: "2025-02-12T09:00:35.926999337Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 2e382760ade3e508c2ee88c6f265a00f68a35218489acc42d278e43717b97e38
     name: microinsight
@@ -62,7 +71,7 @@ entries:
     version: v0.4.1
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2025-02-10T08:59:00.183288898Z"
+    created: "2025-02-12T09:00:35.926674581Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 394f863a6028b53ea6188063067323d11fde6794bfef691f2326c28ee7767ebf
     name: microinsight
@@ -72,7 +81,7 @@ entries:
     version: v0.4.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-10T08:59:00.183134601Z"
+    created: "2025-02-12T09:00:35.926207649Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 1164819769d891be9fd0122ad920507cc127478f50043d835da0e7f2f5ae6eca
     name: microinsight
@@ -82,7 +91,7 @@ entries:
     version: v0.3.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-10T08:59:00.182981575Z"
+    created: "2025-02-12T09:00:35.926048331Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 1d65c49a97d8bb7a83bfba00dba39ac264595856b1d14cddfbe33842e0515890
     name: microinsight
@@ -92,7 +101,7 @@ entries:
     version: v0.2.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-10T08:59:00.182801149Z"
+    created: "2025-02-12T09:00:35.925880577Z"
     description: A tool to write microservice resource usage to MySQL
     digest: c1817535e966271b5e45fc9e3be524f01f9d95bcde8ed32d8289c74277cf7aeb
     name: microinsight
@@ -102,7 +111,7 @@ entries:
     version: v0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-10T08:59:00.182596337Z"
+    created: "2025-02-12T09:00:35.925702946Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 9ce3495bb83a258e4ffe655f09c81bbaa9fbfd199445fe1fd7e77cadc8f8341f
     name: microinsight
@@ -112,7 +121,7 @@ entries:
     version: v0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-10T08:59:00.182416752Z"
+    created: "2025-02-12T09:00:35.925533699Z"
     description: A tool to write microservice resource usage to MySQL
     digest: a37d8b4355ea737b36250f39ce006da6930525f30105dad8d0369ba13f1dd72d
     name: microinsight
@@ -123,7 +132,7 @@ entries:
   rumsimop:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-10T08:59:00.18562222Z"
+    created: "2025-02-12T09:00:35.928993172Z"
     description: An operator for running MQTT simulations.
     digest: 99fc11e5e3f4202d8e032d9427be6e841b9f0d61ecd160d2eab88d9b37053cf3
     name: rumsimop
@@ -133,7 +142,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-10T08:59:00.185436484Z"
+    created: "2025-02-12T09:00:35.9288205Z"
     description: An operator for running MQTT simulations.
     digest: a8e736eabfac8c5588ad22ac3670c6ba6af8cd048cb732d8e1a67533c278e852
     name: rumsimop
@@ -143,7 +152,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-10T08:59:00.185263181Z"
+    created: "2025-02-12T09:00:35.928643008Z"
     description: An operator for running MQTT simulations.
     digest: c57ed12a8698e81c7b543b28740ccef6699bc3dcdf8a907a51297d8720bf6ab4
     name: rumsimop
@@ -153,7 +162,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-10T08:59:00.185067847Z"
+    created: "2025-02-12T09:00:35.928434819Z"
     description: An operator for running MQTT simulations.
     digest: d9a853001e72872f66d76b9a0940c82a9186fdec57d780f5a0eb20534363ea27
     name: rumsimop
@@ -163,7 +172,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-10T08:59:00.184856683Z"
+    created: "2025-02-12T09:00:35.928203236Z"
     description: An operator for running MQTT simulations.
     digest: 21c80b057ec10a72159c20a80901ed8d230a750fccf4af6d4fd2dc51bfe4563c
     name: rumsimop
@@ -171,4 +180,4 @@ entries:
     urls:
     - rumsimop-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-10T08:59:00.181521844Z"
+generated: "2025-02-12T09:00:35.924694151Z"
