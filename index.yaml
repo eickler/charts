@@ -3,7 +3,7 @@ entries:
   banshee:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-24T13:42:27.898002966Z"
+    created: "2025-03-24T14:23:14.141752652Z"
     description: A microservice to announce Kubernetes OOM killings more visibly.
     digest: a67149b84935bff5ca9e171ff0be2efe5a2490f994a284ee174d4d3fd506c829
     name: banshee
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-24T13:42:27.897769769Z"
+    created: "2025-03-24T14:23:14.141508834Z"
     description: A microservice to announce Kubernetes OOM killings more visibly.
     digest: 10cf263053b8f4a76822352b6bffe18301be29dee0c22b23b3fdac30170dfe3e
     name: banshee
@@ -23,7 +23,16 @@ entries:
     version: 0.1.0
   microinsight:
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.903376847Z"
+    created: "2025-03-24T14:23:14.148986053Z"
+    description: A tool to write microservice resource usage to MySQL
+    digest: 1e3a6bccf3c226372beab7c9a23e187765326c0225d7c75a567c6f7491e7bbb0
+    name: microinsight
+    type: application
+    urls:
+    - microinsight-v0.8.0.tgz
+    version: v0.8.0
+  - apiVersion: v2
+    created: "2025-03-24T14:23:14.147467057Z"
     description: A tool to write microservice resource usage to MySQL
     digest: b6ef746a600c9ab36cf450de0b9ac4ef72e2c47e5ebe402a653e0380df19e659
     name: microinsight
@@ -32,7 +41,7 @@ entries:
     - microinsight-v0.7.20.tgz
     version: v0.7.20
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.90301571Z"
+    created: "2025-03-24T14:23:14.147121778Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 259d289e654c7ca8a096814a0015110dc54c448b470ebc746d269e7034e8da1b
     name: microinsight
@@ -41,7 +50,7 @@ entries:
     - microinsight-v0.7.19.tgz
     version: v0.7.19
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.902799936Z"
+    created: "2025-03-24T14:23:14.146924827Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 6eafd30eed630405d07d454255eff3619385ccb64fef3e7bf2b1a3e14fb5a1d2
     name: microinsight
@@ -50,7 +59,7 @@ entries:
     - microinsight-v0.7.18.tgz
     version: v0.7.18
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.902619146Z"
+    created: "2025-03-24T14:23:14.146735652Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 9b28b3ed88f89ec14aff022de204bfc0ee8ed306b2863b13c169ca88010d85cd
     name: microinsight
@@ -59,7 +68,7 @@ entries:
     - microinsight-v0.7.17.tgz
     version: v0.7.17
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.902425483Z"
+    created: "2025-03-24T14:23:14.14655424Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 5c0bbcd4f18b05856525525c55c7aeb993e8c648378df1ccc918123b82e0957e
     name: microinsight
@@ -68,7 +77,7 @@ entries:
     - microinsight-v0.7.16.tgz
     version: v0.7.16
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.902219797Z"
+    created: "2025-03-24T14:23:14.146369443Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 997af3449aea610824f50da15ca6c8f7fdbe973770abf2ec2396205e1c503c71
     name: microinsight
@@ -77,7 +86,7 @@ entries:
     - microinsight-v0.7.15.tgz
     version: v0.7.15
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.901722492Z"
+    created: "2025-03-24T14:23:14.146072805Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 0c1ffb3e8c6f81a37a92bb7a5d61e4c200f50551726e9aacb139a78e925185e5
     name: microinsight
@@ -86,7 +95,7 @@ entries:
     - microinsight-v0.7.14.tgz
     version: v0.7.14
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.901362227Z"
+    created: "2025-03-24T14:23:14.145799391Z"
     description: A tool to write microservice resource usage to MySQL
     digest: b11996ba0e6288da6957bf338c220bcbd7c2d23c3e48e891b52f5b8eebcdc058
     name: microinsight
@@ -95,7 +104,7 @@ entries:
     - microinsight-v0.7.13.tgz
     version: v0.7.13
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.900817375Z"
+    created: "2025-03-24T14:23:14.145611167Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 80ae415f7ea3d7d28cfeed619c3677339866413f2f44c5ffa47c5a72b6b5ce72
     name: microinsight
@@ -104,7 +113,7 @@ entries:
     - microinsight-v0.7.12.tgz
     version: v0.7.12
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.900654649Z"
+    created: "2025-03-24T14:23:14.145109464Z"
     description: A tool to write microservice resource usage to MySQL
     digest: ede0cb638044067413a80eeaf1f7e33104484397151dd3cd9ac55cd25e2e9fd7
     name: microinsight
@@ -113,7 +122,7 @@ entries:
     - microinsight-v0.7.11.tgz
     version: v0.7.11
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.900481264Z"
+    created: "2025-03-24T14:23:14.14475134Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 6c2bb027429bbc12d74af82af98a1e71c9c6d36196f5854165d3fd2a18431240
     name: microinsight
@@ -122,7 +131,7 @@ entries:
     - microinsight-v0.7.10.tgz
     version: v0.7.10
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.904607436Z"
+    created: "2025-03-24T14:23:14.148789834Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 17866b2be007a77c80c306c0917577255af6f986053104c621f0cfb7484d6cdd
     name: microinsight
@@ -131,7 +140,7 @@ entries:
     - microinsight-v0.7.9.tgz
     version: v0.7.9
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.904442446Z"
+    created: "2025-03-24T14:23:14.148615195Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 87f049063cee5a3e090a7cc4d657c2ce27182d3cf239b2a2e47f41a982dc3b4a
     name: microinsight
@@ -140,7 +149,7 @@ entries:
     - microinsight-v0.7.8.tgz
     version: v0.7.8
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.904278358Z"
+    created: "2025-03-24T14:23:14.148425469Z"
     description: A tool to write microservice resource usage to MySQL
     digest: cd4bc0e1e44aac6e5deb92afec3d40fa9253e492d52ef72c075b538554040e6b
     name: microinsight
@@ -149,7 +158,7 @@ entries:
     - microinsight-v0.7.7.tgz
     version: v0.7.7
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.904105314Z"
+    created: "2025-03-24T14:23:14.148247404Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 36f252517ead19c65e9c3ecdebe2232e8f2220b6180bad35bd4b62193924193c
     name: microinsight
@@ -158,7 +167,7 @@ entries:
     - microinsight-v0.7.6.tgz
     version: v0.7.6
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.903889519Z"
+    created: "2025-03-24T14:23:14.148056505Z"
     description: A tool to write microservice resource usage to MySQL
     digest: f5571d36fcc5c5067e2ed1196519e8e5859d4da35d535a211c31cc4c5e528a66
     name: microinsight
@@ -167,7 +176,7 @@ entries:
     - microinsight-v0.7.5.tgz
     version: v0.7.5
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.903723939Z"
+    created: "2025-03-24T14:23:14.147827835Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 78428802831ea4512cd8f847ae1057d060064527a8c0e4c029a8d37f16147da6
     name: microinsight
@@ -176,7 +185,7 @@ entries:
     - microinsight-v0.7.4.tgz
     version: v0.7.4
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.903553569Z"
+    created: "2025-03-24T14:23:14.147651654Z"
     description: A tool to write microservice resource usage to MySQL
     digest: e12616a60c46a7e761cf78ad7decbe081d901b5c2505a28a45e35f162e621f77
     name: microinsight
@@ -185,7 +194,7 @@ entries:
     - microinsight-v0.7.3.tgz
     version: v0.7.3
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.903199525Z"
+    created: "2025-03-24T14:23:14.147291687Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 73cba2f5ccb826fe7f328188516030eef3164f7c16d21b10a5703d2ba26d8237
     name: microinsight
@@ -194,7 +203,7 @@ entries:
     - microinsight-v0.7.2.tgz
     version: v0.7.2
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.900314522Z"
+    created: "2025-03-24T14:23:14.144244057Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 3ef998826e099babc8e4b18ba814e9cf04cc29767689c1072112da66d7968700
     name: microinsight
@@ -203,7 +212,7 @@ entries:
     - microinsight-v0.7.1.tgz
     version: v0.7.1
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.900151396Z"
+    created: "2025-03-24T14:23:14.144080309Z"
     description: A tool to write microservice resource usage to MySQL
     digest: a3db2bcdc25966c2ee94d06e53d929350157ce2226009fe54475662a987d9918
     name: microinsight
@@ -212,7 +221,7 @@ entries:
     - microinsight-v0.7.0.tgz
     version: v0.7.0
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.899984172Z"
+    created: "2025-03-24T14:23:14.143895491Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 4d81447294c1d21896dcc40469dba402e78f0538c11f04e163f1909e1b7c766f
     name: microinsight
@@ -221,7 +230,7 @@ entries:
     - microinsight-v0.6.1.tgz
     version: v0.6.1
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.899797502Z"
+    created: "2025-03-24T14:23:14.143727626Z"
     description: A tool to write microservice resource usage to MySQL
     digest: bc907f35dd4a921b126080e4add544b5104fc68b7f7089d11a31675a8ed70404
     name: microinsight
@@ -230,7 +239,7 @@ entries:
     - microinsight-v0.6.0.tgz
     version: v0.6.0
   - apiVersion: v2
-    created: "2025-03-24T13:42:27.899618937Z"
+    created: "2025-03-24T14:23:14.143554911Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 652fd16bb8150b2559fc86d0c2438118e82ee94eab25c63acdd8a14a9e930674
     name: microinsight
@@ -240,7 +249,7 @@ entries:
     version: v0.5.1
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2025-03-24T13:42:27.899456492Z"
+    created: "2025-03-24T14:23:14.143394068Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 74c0de87fc7b3e7d986bccc132448150fbb0487d078a5007b6491aa0df09078f
     name: microinsight
@@ -250,7 +259,7 @@ entries:
     version: v0.5.0
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2025-03-24T13:42:27.899276495Z"
+    created: "2025-03-24T14:23:14.143220061Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 2e382760ade3e508c2ee88c6f265a00f68a35218489acc42d278e43717b97e38
     name: microinsight
@@ -260,7 +269,7 @@ entries:
     version: v0.4.1
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2025-03-24T13:42:27.899097239Z"
+    created: "2025-03-24T14:23:14.143041505Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 394f863a6028b53ea6188063067323d11fde6794bfef691f2326c28ee7767ebf
     name: microinsight
@@ -270,7 +279,7 @@ entries:
     version: v0.4.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-24T13:42:27.898901261Z"
+    created: "2025-03-24T14:23:14.142845457Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 1164819769d891be9fd0122ad920507cc127478f50043d835da0e7f2f5ae6eca
     name: microinsight
@@ -280,7 +289,7 @@ entries:
     version: v0.3.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-24T13:42:27.898738816Z"
+    created: "2025-03-24T14:23:14.142678242Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 1d65c49a97d8bb7a83bfba00dba39ac264595856b1d14cddfbe33842e0515890
     name: microinsight
@@ -290,7 +299,7 @@ entries:
     version: v0.2.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-24T13:42:27.898561373Z"
+    created: "2025-03-24T14:23:14.142498905Z"
     description: A tool to write microservice resource usage to MySQL
     digest: c1817535e966271b5e45fc9e3be524f01f9d95bcde8ed32d8289c74277cf7aeb
     name: microinsight
@@ -300,7 +309,7 @@ entries:
     version: v0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-24T13:42:27.898396614Z"
+    created: "2025-03-24T14:23:14.142313015Z"
     description: A tool to write microservice resource usage to MySQL
     digest: 9ce3495bb83a258e4ffe655f09c81bbaa9fbfd199445fe1fd7e77cadc8f8341f
     name: microinsight
@@ -310,7 +319,7 @@ entries:
     version: v0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-24T13:42:27.898196208Z"
+    created: "2025-03-24T14:23:14.142002732Z"
     description: A tool to write microservice resource usage to MySQL
     digest: a37d8b4355ea737b36250f39ce006da6930525f30105dad8d0369ba13f1dd72d
     name: microinsight
@@ -321,7 +330,7 @@ entries:
   rumsimop:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-24T13:42:27.905677583Z"
+    created: "2025-03-24T14:23:14.149865998Z"
     description: An operator for running MQTT simulations.
     digest: 99fc11e5e3f4202d8e032d9427be6e841b9f0d61ecd160d2eab88d9b37053cf3
     name: rumsimop
@@ -331,7 +340,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-24T13:42:27.905502394Z"
+    created: "2025-03-24T14:23:14.149682623Z"
     description: An operator for running MQTT simulations.
     digest: a8e736eabfac8c5588ad22ac3670c6ba6af8cd048cb732d8e1a67533c278e852
     name: rumsimop
@@ -341,7 +350,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-24T13:42:27.905319521Z"
+    created: "2025-03-24T14:23:14.149508706Z"
     description: An operator for running MQTT simulations.
     digest: c57ed12a8698e81c7b543b28740ccef6699bc3dcdf8a907a51297d8720bf6ab4
     name: rumsimop
@@ -351,7 +360,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-24T13:42:27.905030549Z"
+    created: "2025-03-24T14:23:14.149321514Z"
     description: An operator for running MQTT simulations.
     digest: d9a853001e72872f66d76b9a0940c82a9186fdec57d780f5a0eb20534363ea27
     name: rumsimop
@@ -361,7 +370,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-24T13:42:27.904755804Z"
+    created: "2025-03-24T14:23:14.149139221Z"
     description: An operator for running MQTT simulations.
     digest: 21c80b057ec10a72159c20a80901ed8d230a750fccf4af6d4fd2dc51bfe4563c
     name: rumsimop
@@ -369,4 +378,4 @@ entries:
     urls:
     - rumsimop-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-24T13:42:27.897435712Z"
+generated: "2025-03-24T14:23:14.141181568Z"
